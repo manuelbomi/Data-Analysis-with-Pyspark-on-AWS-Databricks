@@ -12,6 +12,13 @@ On AWS Datbricks, click on Catalog and Create Table
 ![2 Click catalog and create table](https://github.com/user-attachments/assets/8e8c80e3-0db6-421d-9f38-13e62a360bbf)
 
 
+![3 create new table on HDFS or S3 and give it an appropriate name ](https://github.com/user-attachments/assets/2a4963ee-8e8b-42f2-9e34-c4783c8c369f)
+
+
+![4 click to upload the data from your local repository](https://github.com/user-attachments/assets/c0f9358c-fc5a-4695-b255-dc673385338b)
+
+
+
 First row is header, spark will allocate some default column names
 
 file_location = "/FileStore/tables/spark_modeling/salesData/sales_06_FY2020_21_copy.csv"
