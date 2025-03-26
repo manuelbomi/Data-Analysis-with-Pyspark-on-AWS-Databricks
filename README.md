@@ -43,5 +43,17 @@ df = spark.read.format(file_type) \
 display(df)
 ![6 create data with first row is header set to true](https://github.com/user-attachments/assets/fdd08a1a-b80d-498d-bb83-ff2240678e6b)
 
+![7 check the data schema and create a tempview to create a dataframe](https://github.com/user-attachments/assets/49970812-4323-4e52-a2d8-a85391f63a23)
+
+
+![8 check data with SQL SELECT * command](https://github.com/user-attachments/assets/5e3eb773-7381-484d-8f4c-4ad8c8806636)
+
+
+![9 create a permanent table so that data will persist on HDFS](https://github.com/user-attachments/assets/eb77e53b-d1fd-4aa7-9dae-c5417db20216)
+
+
+![10 dataframe can be converted to list format from dataframe](https://github.com/user-attachments/assets/0e05ad22-43e9-4de5-9f39-4ca4d2959dd8)
+
+
 
 
