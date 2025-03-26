@@ -18,6 +18,11 @@ On AWS Datbricks, click on Catalog and Create Table
 ![4 click to upload the data from your local repository](https://github.com/user-attachments/assets/c0f9358c-fc5a-4695-b255-dc673385338b)
 
 
+![5 Click create table in notebook and create a cluster](https://github.com/user-attachments/assets/63f1927c-79c4-445b-bcfa-a5a04505ccc4)
+
+
+![6 create data with first row is header set to true](https://github.com/user-attachments/assets/fdd08a1a-b80d-498d-bb83-ff2240678e6b)
+
 
 First row is header, spark will allocate some default column names
 
