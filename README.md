@@ -21,10 +21,8 @@ Click create table in a notebbok and create a cluster
 ![5 Click create table in notebook and create a cluster](https://github.com/user-attachments/assets/63f1927c-79c4-445b-bcfa-a5a04505ccc4)
 
 Create data with the first ro set to true
-![6 create data with first row is header set to true](https://github.com/user-attachments/assets/fdd08a1a-b80d-498d-bb83-ff2240678e6b)
 
-
-First row is header, spark will allocate some default column names
+First row is header, or spark will allocate some default column names
 
 file_location = "/FileStore/tables/spark_modeling/salesData/sales_06_FY2020_21_copy.csv"
 
@@ -43,3 +41,7 @@ df = spark.read.format(file_type) \
 .load(file_location)
 
 display(df)
+![6 create data with first row is header set to true](https://github.com/user-attachments/assets/fdd08a1a-b80d-498d-bb83-ff2240678e6b)
+
+
+
