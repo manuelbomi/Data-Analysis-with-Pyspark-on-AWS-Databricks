@@ -2,6 +2,11 @@
 
 Here, we show some pyspark commands that can be used for data analysis on a variety of datasets. Databricks (on AWS community edition platform) is used as the platform for the data anaylsis. It is believed that the analyses methods shown here could be useful for a variety of data analytics instances. 
 
+To set up data on AWS Databricks, 
+
+![1 Load data onto AWS Databricks community edition](https://github.com/user-attachments/assets/2d4622f7-53df-47b8-9100-87148b7050d9)
+
+
 ##### Sample sales data from Kaggle: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 First row is header, spark will allocate some default column names
 file_location = "/FileStore/tables/spark_modeling/salesData/sales_06_FY2020_21_copy.csv"
