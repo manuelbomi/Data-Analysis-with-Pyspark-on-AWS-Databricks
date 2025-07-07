@@ -1,4 +1,4 @@
-# Data-Analysis-with-Pyspark-on-AWS-Databricks
+# Data Analysis with Pyspark on AWS Databricks
 
 Here, we show some pyspark commands that can be used for data analysis on a variety of datasets. Databricks (on AWS community edition platform) is used as the platform for the data anaylsis. It is believed that the analyses methods shown here could be useful for a variety of data analytics instances. 
 
